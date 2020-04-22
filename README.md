@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [arXiv] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
 - [arXiv] [LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention](https://arxiv.org/pdf/2002.03084.pdf)
 - [arXiv] [Imputer: Sequence Modelling via Imputation and Dynamic Programming](https://arxiv.org/pdf/2002.08926.pdf)
 - [ICLR] [Understanding Knowledge Distillation in Non-autoregressive Machine Translation](https://arxiv.org/pdf/1911.02727.pdf)
