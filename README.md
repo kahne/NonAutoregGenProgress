@@ -3,10 +3,11 @@ Non-Autoregressive Generation Progress
 
 ### 2020
 - [ACL] [ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2005.00850.pdf)
+- [ACL] [Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://arxiv.org/pdf/2005.00932.pdf)
 - [arXiv] [Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict](https://arxiv.org/pdf/2005.08700.pdf)
-- [arXiv] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
+- [ICML] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
 - [arXiv] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
-- [arXiv] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
+- [ICML] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
 - [arXiv] [Semi-Autoregressive Training Improves Mask-Predict Decoding](https://arxiv.org/pdf/2001.08785.pdf)
 - [arXiv] [LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention](https://arxiv.org/pdf/2002.03084.pdf)
 - [arXiv] [Imputer: Sequence Modelling via Imputation and Dynamic Programming](https://arxiv.org/pdf/2002.08926.pdf)
