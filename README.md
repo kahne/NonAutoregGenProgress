@@ -2,8 +2,10 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
-- [ACL] [ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2005.00850.pdf)
-- [ACL] [Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://arxiv.org/pdf/2005.00932.pdf)
+- [ACL] [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277.pdf)
+- [ACL] [Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.36.pdf)
+- [ACL] [ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.251.pdf)
+- [ACL] [Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://www.aclweb.org/anthology/2020.acl-main.171.pdf)
 - [arXiv] [Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict](https://arxiv.org/pdf/2005.08700.pdf)
 - [ICML] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
 - [arXiv] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
