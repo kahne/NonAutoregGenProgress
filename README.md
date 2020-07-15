@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [ICML] [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf)
 - [ACL] [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277.pdf)
 - [ACL] [Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.36.pdf)
 - [ACL] [ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.251.pdf)
