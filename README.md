@@ -2,6 +2,9 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
+- [arXiv] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
+- [arXiv] [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2007.08772.pdf)
 - [arXiv] [Insertion-Based Modeling for End-to-End Automatic Speech Recognition](https://arxiv.org/pdf/2005.13211.pdf)
 - [ICML] [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf)
 - [ACL] [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277.pdf)
