@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
 - [arXiv] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
 - [arXiv] [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2007.08772.pdf)
