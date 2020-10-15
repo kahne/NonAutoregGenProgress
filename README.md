@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [NeurIPS] [Incorporating BERT into Parallel Sequence Decoding with Adapters](https://arxiv.org/pdf/2010.06138.pdf)
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
 - [arXiv] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
@@ -9,7 +10,7 @@ Non-Autoregressive Generation Progress
 - [arXiv] [Insertion-Based Modeling for End-to-End Automatic Speech Recognition](https://arxiv.org/pdf/2005.13211.pdf)
 - [arXiv] [Semi-Autoregressive Training Improves Mask-Predict Decoding](https://arxiv.org/pdf/2001.08785.pdf)
 - [arXiv] [LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention](https://arxiv.org/pdf/2002.03084.pdf)
-- [arXiv] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
+- [EMNLP] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
 - [EMNLP] [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2009.07177.pdf)
 - [INTERSPEECH] [Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict](https://arxiv.org/pdf/2005.08700.pdf)
 - [ACL] [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277.pdf)
@@ -27,6 +28,8 @@ Non-Autoregressive Generation Progress
 - [AAAI] [Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1911.08717.pdf)
 
 ### 2019
+- [arXiv] [Non-autoregressive Transformer by Position Learning](https://arxiv.org/pdf/1911.10677.pdf)
+- [arXiv] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
 - [arXiv] [Non-Autoregressive Transformer Automatic Speech Recognition](https://arxiv.org/pdf/1911.04908.pdf)
 - [NeurIPS] [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer.pdf)
 - [NeurIPS] [Fast Structured Decoding for Sequence Models](https://arxiv.org/pdf/1910.11555.pdf)
