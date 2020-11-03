@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [COLING] [Context-Aware Cross-Attention for Non-Autoregressive Translation](https://arxiv.org/abs/2011.00770)
 - [NeurIPS] [Incorporating BERT into Parallel Sequence Decoding with Adapters](https://arxiv.org/pdf/2010.06138.pdf)
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
