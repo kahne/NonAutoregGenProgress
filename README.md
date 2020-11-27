@@ -40,6 +40,7 @@ Non-Autoregressive Generation Progress
 - [EMNLP] [Hint-Based Training for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/D19-1573.pdf)
 - [ACL] [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444.pdf)
 - [ACL] [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.02041.pdf)
+- [ACL] [Syntactically supervised transformers for faster neural machine translation](https://www.aclweb.org/anthology/P19-1122.pdf)
 - [AAAI] [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/pdf/1902.10245.pdf)
 - [AAAI] [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf)
 
@@ -47,6 +48,7 @@ Non-Autoregressive Generation Progress
 - [EMNLP] [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/pdf/1802.06901.pdf)
 - [EMNLP] [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](https://arxiv.org/pdf/1811.04719.pdf)
 - [ICLR] [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)
+- [ICML] [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf)
 
 # Contact
 Changhan Wang ([wangchanghan@gmail.com](mailto:wangchanghan@gmail.com))
