@@ -2,6 +2,7 @@ Non-Autoregressive Generation Progress
 ======
 
 ### 2020
+- [arXiv] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [arXiv] [Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
