@@ -1,5 +1,8 @@
 Non-Autoregressive Generation Progress
 ======
+### 2021
+- [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
+
 
 ### 2020
 - [arXiv] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
@@ -15,6 +18,7 @@ Non-Autoregressive Generation Progress
 - [NeurIPS] [Incorporating BERT into Parallel Sequence Decoding with Adapters](https://arxiv.org/pdf/2010.06138.pdf)
 - [EMNLP] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
 - [EMNLP] [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2009.07177.pdf)
+- [EMNLP] [SlotRefine: A Fast Non-Autoregressive Model for Joint Intent Detection and Slot Filling](https://www.aclweb.org/anthology/2020.emnlp-main.152.pdf)
 - [INTERSPEECH] [Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict](https://arxiv.org/pdf/2005.08700.pdf)
 - [ACL] [Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.277.pdf)
 - [ACL] [Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.36.pdf)
