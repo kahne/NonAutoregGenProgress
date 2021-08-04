@@ -1,6 +1,8 @@
 Non-Autoregressive Generation Progress
 ======
 ### 2021
+- [arXiv] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
+- [arXiv] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://arxiv.org/pdf/2103.11405.pdf)
 - [arXiv] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
 - [AAAI] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
