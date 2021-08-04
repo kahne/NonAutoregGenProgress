@@ -1,8 +1,13 @@
 Non-Autoregressive Generation Progress
 ======
 ### 2021
-- [arXiv] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
-- [arXiv] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://arxiv.org/pdf/2103.11405.pdf)
+- [ICML] [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf)
+- [ACL] [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf)
+- [ACL] [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf)
+- [ACL SRW] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
+- [NAACL] [Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog](https://www.aclweb.org/anthology/2021.naacl-main.236.pdf)
+- [NAACL] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://www.aclweb.org/anthology/2021.naacl-main.458.pdf)
+- [NAACL] [Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2021.naacl-main.313.pdf)
 - [arXiv] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
 - [AAAI] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
