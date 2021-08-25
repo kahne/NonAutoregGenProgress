@@ -1,23 +1,24 @@
 Non-Autoregressive Generation Progress
 ======
 ### 2021
+- [arXiv] [MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2108.08447.pdf)
 - [ICML] [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf)
+- [ICML] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [ACL] [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf)
 - [ACL] [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf)
+- [ACL] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
+- [ACL Findings] [Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)
 - [ACL SRW] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
 - [NAACL] [Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog](https://www.aclweb.org/anthology/2021.naacl-main.236.pdf)
 - [NAACL] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://www.aclweb.org/anthology/2021.naacl-main.458.pdf)
 - [NAACL] [Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2021.naacl-main.313.pdf)
-- [arXiv] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
 - [AAAI] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
 
 ### 2020
 - [arXiv] [Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition](https://arxiv.org/pdf/1911.04908.pdf)
-- [arXiv] [Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
-- [arXiv] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
 - [arXiv] [Semi-Autoregressive Training Improves Mask-Predict Decoding](https://arxiv.org/pdf/2001.08785.pdf)
 - [arXiv] [LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention](https://arxiv.org/pdf/2002.03084.pdf)
 - [IJCAI] [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2007.08772.pdf)
