@@ -23,6 +23,7 @@ Non-Autoregressive Generation Progress
 - [arXiv] [LAVA NAT: A Non-Autoregressive Translation Model with Look-Around Decoding and Vocabulary Attention](https://arxiv.org/pdf/2002.03084.pdf)
 - [IJCAI] [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2007.08772.pdf)
 - [COLING] [Context-Aware Cross-Attention for Non-Autoregressive Translation](https://arxiv.org/abs/2011.00770)
+- [COLING] [Infusing Sequential Information into Conditional Masked Translation Model with Self-Review Mechanism](https://aclanthology.org/2020.coling-main.2.pdf)
 - [NeurIPS] [Incorporating BERT into Parallel Sequence Decoding with Adapters](https://arxiv.org/pdf/2010.06138.pdf)
 - [EMNLP] [Non-Autoregressive Machine Translation with Latent Alignments](https://arxiv.org/pdf/2004.07437.pdf)
 - [EMNLP] [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2009.07177.pdf)
