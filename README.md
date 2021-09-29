@@ -7,6 +7,7 @@ Non-Autoregressive Generation Progress
 - [ACL] [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf)
 - [ACL] [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf)
 - [ACL] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
+- [ACL] [Non-Autoregressive Text Generation with Pre-trained Language Models](https://aclanthology.org/2021.eacl-main.18.pdf)
 - [ACL Findings] [Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)
 - [ACL SRW] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
 - [NAACL] [Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog](https://www.aclweb.org/anthology/2021.naacl-main.236.pdf)
