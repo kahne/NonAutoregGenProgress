@@ -1,14 +1,18 @@
 Non-Autoregressive Generation Progress
 ======
 ### 2021
+- [EMNLP] [AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate](https://aclanthology.org/2021.emnlp-main.1.pdf)
+- [arxiv] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision] (https://arxiv.org/abs/2110.07515)
 - [arXiv] [MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2108.08447.pdf)
 - [ICML] [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf)
 - [ICML] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
 - [ACL] [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf)
 - [ACL] [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf)
 - [ACL] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
+- [ACL] [POS-Constrained Parallel Decoding for Non-autoregressive Generation](https://aclanthology.org/2021.acl-long.467.pdf)
 - [ACL Findings] [Fully Non-autoregressive Neural Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/2012.15833.pdf)
 - [ACL SRW] [Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation](https://arxiv.org/pdf/2107.13689.pdf)
+- [EACL] [Enriching Non-Autoregressive Transformer with Syntactic and Semantic Structures for Neural Machine Translation](https://aclanthology.org/2021.eacl-main.105.pdf)
 - [EACL] [Non-Autoregressive Text Generation with Pre-trained Language Models](https://aclanthology.org/2021.eacl-main.18.pdf)
 - [NAACL] [Non-Autoregressive Semantic Parsing for Compositional Task-Oriented Dialog](https://www.aclweb.org/anthology/2021.naacl-main.236.pdf)
 - [NAACL] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://www.aclweb.org/anthology/2021.naacl-main.458.pdf)
