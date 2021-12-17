@@ -67,6 +67,7 @@ Non-Autoregressive Generation Progress
 - [AAAI] [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf)
 
 ### 2018
+- [ICML] [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf)
 - [EMNLP] [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/pdf/1802.06901.pdf)
 - [EMNLP] [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](https://arxiv.org/pdf/1811.04719.pdf)
 - [ICLR] [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)
