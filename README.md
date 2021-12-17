@@ -4,6 +4,7 @@ Non-Autoregressive Generation Progress
 - [EMNLP] [Exploring Non-Autoregressive Text Style Transfer](https://aclanthology.org/2021.emnlp-main.730.pdf)
 - [EMNLP] [Learning to Rewrite for Non-Autoregressive Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.265.pdf)
 - [EMNLP] [AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate](https://aclanthology.org/2021.emnlp-main.1.pdf)
+- [arXiv] [Sequence-Level Training for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2106.08122.pdf)
 - [arXiv] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision](https://arxiv.org/abs/2110.07515)
 - [arXiv] [MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2108.08447.pdf)
 - [ICML] [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf)
