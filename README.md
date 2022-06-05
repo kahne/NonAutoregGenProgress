@@ -1,6 +1,10 @@
 Non-Autoregressive Generation Progress
 ======
 ### 2022
+- [NAACL] [One Reference Is Not Enough: Diverse Distillation with Reference Selection for Non-Autoregressive Translation](https://arxiv.org/pdf/2205.14333.pdf)
+- [ICML] [Directed Acyclic Transformer for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2205.07459v1.pdf)
+- [arXiv] [A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond](https://arxiv.org/pdf/2204.09269.pdf)
+
 - [ACL] [latent-GLAT: Glancing at Latent Variables for Parallel Text Generation](https://aclanthology.org/2022.acl-long.575.pdf)
 - [ACL] [An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models](https://aclanthology.org/2022.acl-long.520.pdf)
 - [ACL] [Redistributing Low-Frequency Words: Making the Most of Monolingual Data in Non-Autoregressive Translation](https://aclanthology.org/2022.acl-long.172.pdf)
