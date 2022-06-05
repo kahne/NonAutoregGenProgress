@@ -11,7 +11,7 @@ Non-Autoregressive Generation Progress
 - [arXiv] [Non-Autoregressive Neural Machine Translation: A Call for Clarity](https://arxiv.org/abs/2205.10577)
 
 ### 2021
-- [arXiv] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision](https://arxiv.org/abs/2110.07515)
+- [AAAI] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision](https://arxiv.org/abs/2110.07515)
 - [arXiv] [MvSR-NAT: Multi-view Subset Regularization for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2108.08447.pdf)
 - [CL] [Sequence-Level Training for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2106.08122.pdf)
 - [EMNLP] [Exploring Non-Autoregressive Text Style Transfer](https://aclanthology.org/2021.emnlp-main.730.pdf)
