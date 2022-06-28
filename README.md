@@ -9,6 +9,7 @@ Non-Autoregressive Generation Progress
 - [ACL] [An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models](https://aclanthology.org/2022.acl-long.520.pdf)
 - [ACL] [Redistributing Low-Frequency Words: Making the Most of Monolingual Data in Non-Autoregressive Translation](https://aclanthology.org/2022.acl-long.172.pdf)
 - [arXiv] [Non-Autoregressive Neural Machine Translation: A Call for Clarity](https://arxiv.org/abs/2205.10577)
+- [arXiv] [Lossless Speedup of Autoregressive Translation with Generalized Aggressive Decoding](https://arxiv.org/abs/2203.16487)
 
 ### 2021
 - [AAAI] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision](https://arxiv.org/abs/2110.07515)
