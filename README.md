@@ -8,7 +8,7 @@ Non-Autoregressive Generation Progress
 - [ACL] [latent-GLAT: Glancing at Latent Variables for Parallel Text Generation](https://aclanthology.org/2022.acl-long.575.pdf)
 - [ACL] [An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models](https://aclanthology.org/2022.acl-long.520.pdf)
 - [ACL] [Redistributing Low-Frequency Words: Making the Most of Monolingual Data in Non-Autoregressive Translation](https://aclanthology.org/2022.acl-long.172.pdf)
-- [arXiv] [Non-Autoregressive Neural Machine Translation: A Call for Clarity](https://arxiv.org/abs/2205.10577)
+- [EMNLP] [Non-Autoregressive Neural Machine Translation: A Call for Clarity](https://arxiv.org/abs/2205.10577)
 
 ### 2021
 - [AAAI] [Non-Autoregressive Translation with Layer-Wise Prediction and Deep Supervision](https://arxiv.org/abs/2110.07515)
